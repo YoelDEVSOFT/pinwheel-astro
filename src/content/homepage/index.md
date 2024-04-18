@@ -1,87 +1,84 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Medico a domicilio en Bogota: Servicio medico a tu puerta"
+  content: "La salud es un derecho fundamental e inalienable para todo ser humano. Acceder a servicios médicos oportunos es esencial."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Contactanos
+    link: "/"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Ventajas de médicos a domicilio"
+  description: Los servicios de médico a domicilio en Bogotá ofrecen múltiples beneficios que contribuyen a la optimización del cuidado de la salud desde la comodidad del hogar. 
   feature_list:
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Comodidad
+      content: Atención médica sin desplazamientos.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Accesibilidad
+      content: Ideal para personas con movilidad reducida
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Atención personalizada
+      content: Servicio adaptado a las necesidades individuales del paciente.
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Ahorro de tiempo
+      content: Evita largas esperas en clínicas y hospitales.
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Atención especializada
+      content: Ofrece atención especializada, no solo consultas generales
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Mayor privacidad
+      content: Permite discutir síntomas y preocupaciones en un entorno más confidencial.
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Reducción de contagios
+      content: Reduce el riesgo de exposición a enfermedades contagiosas.
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Seguimiento continuo
+      content: Permite un seguimiento más estrecho y regular de la salud del paciente.
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Mejor comunicación
+      content: Facilita una comunicación más fluida y personal con el médico.
+    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Mayor tranquilidad
+      content: Proporciona tranquilidad a los pacientes y a sus familias al saber que la atención médica está a su alcance.
 
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: Atención personalizada en tu hogar
+    description: La asistencia médica en el domicilio no es simplemente una cuestión de comodidad; se trata de un servicio integral que atiende a las singularidades de cada individuo, potenciando su bienestar y recuperación en un espacio familiar.
     tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Atención médica en tu propio hogar.
+          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
+        - title: Cuidados adaptados a tus necesidades.
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
-          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Los pacientes suelen recuperarse más rápido en casa.
+          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    - title: Sin esperas ni desplazamientos
+      desctiption: La comodidad y el ahorro de tiempo son fundamentales en la atención médica domiciliaria, donde el cuidado de calidad se lleva directamente al hogar del paciente.
       image: "/images/collaboration.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
-      video:
-        thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
-      button:
-        label: Know About Us
-        link: "#"
-        enable: true
+        - Inmediatez en la respuesta médica
+        - Consulta personalizada en su hogar
+        - Eliminación de esperas y trayecto
+        - Posibilidad de evaluar al paciente en su hogar
+        - Supervisión y seguimiento constante
+    - title: Servicios ofertados en Bogotá
+      description: En Bogotá, la oferta de servicios médicos a domicilio se ha diversificado, Las consultas a domicilio se enriquecen con la realización de exámenes diagnósticos básicos como toma de muestras para laboratorio, electrocardiogramas y monitoreo de signos vitales, integrando así una atención integral que sobrepasa la mera consulta, potenciando la efectividad del tratamiento en el confort y privacidad del hogar del paciente. La especialización y la idoneidad del personal médico aseguran un servicio de alto calibre.
+      image: "/images/intro-thumbnail.png"
+        
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Nuestros pacientes dan respaldo de nuestro excelente servicio
+  description: Nuestros pacientes son el testimonio viviente de nuestro compromiso con la excelencia en la atención médica. Su satisfacción y bienestar son nuestra mayor recompensa y motivación.
   testimonial_list:
     - author: David Cameron
       avatar: "/images/users/user-5.png"

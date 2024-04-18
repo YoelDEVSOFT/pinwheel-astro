@@ -18,27 +18,27 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Nos apasiona sanar y ayudar. Cada paciente es nuestra prioridad.",
+    "description": "Nos dedicamos a la salud y el bienestar de cada paciente, siempre priorizándolos en nuestro servicio.",
     "button": {
-      "label": "Download The Theme",
+      "label": "Contacta la mejor Atencion Medica",
       "link": "https://themefisher.com/astro-themes/pinwheel-astro"
     }
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "Yoel Pinto",
     "settings": {}
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "footer_description": "Tu salud, nuestra prioridad, en cualquier momento y lugar.",
     "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "location": "Bogota D.C",
+    "phone": "555-555-555",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 [Yoel Pinto](https://themefisher.com)"
   },
 
   "metadata": {

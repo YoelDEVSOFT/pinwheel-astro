@@ -1,11 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Acerca de",
       "url": "/about"
     },
     {
@@ -13,72 +13,84 @@
       "url": "/blog"
     },
     {
-      "name": "Features",
+      "name": "Características",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "Cómo Funciona",
       "url": "/how-it-works"
     },
     {
-      "name": "Pages",
+      "name": "Servicios",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Career",
+          "name": "Servicios de salud a domicilio",
           "url": "/career"
         },
 
         {
-          "name": "Integrations",
+          "name": "Laboratorios a domicilio",
           "url": "/integrations"
         },
 
         {
-          "name": "Pricing",
+          "name": "Inyectología a domicilio",
           "url": "/pricing"
         },
         {
-          "name": "Sign In",
+          "name": "Terapia respiratoria a domicilio",
           "url": "/signin"
         },
 
         {
-          "name": "Elements",
+          "name": "Electrocardiograma a domicilio",
           "url": "/elements"
         },
         {
-          "name": "Changelog",
+          "name": "Concentrados de oxígeno a domicilio",
           "url": "/changelog"
         },
         {
-          "name": "Terms And Conditions",
+          "name": "Curas de heridas a domicilio",
+          "url": "/terms-and-conditions"
+        },
+        {
+          "name": "Colocación de tratamientos a domicilio",
+          "url": "/terms-and-conditions"
+        },
+        {
+          "name": "Monitoreo de signos vitales a domicilio",
+          "url": "/terms-and-conditions"
+        },
+        {
+          "name": "Servicios de enfermería a domicilio",
           "url": "/terms-and-conditions"
         }
       ]
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     }
   ],
 
   "footer": [
     {
-      "name": "About",
+      "name": "Acerca de",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "Elements",
+      "name": "Quienes somos?",
       "url": "/elements"
     },
     {
-      "name": "Changelog",
+      "name": "Servicios",
       "url": "/changelog"
     }
   ]
